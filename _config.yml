@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "创芯实验室"
 title_separator          : "-"
-name                     : &name "创芯实验室"
+name                     : &name "清华大学创芯实验室"
 description              : &description "简介"
 url                      : https://Sun-Research-Group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
