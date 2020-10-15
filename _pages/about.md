@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "清华孙楠研究组"
 excerpt: "About me"
 author_profile: true
@@ -26,4 +27,4 @@ redirect_from:
 
 更多信息
 ------
-更多信息可以参见 [Google Scholar](https://scholar.google.com/citations?user=dtUMGuMAAAAJ&hl=en&oi=ao) 或者 [IEEE](https://ieeexplore.ieee.org/author/37590237800)
+参见 [Google Scholar](https://scholar.google.com/citations?user=dtUMGuMAAAAJ&hl=en&oi=ao) 或者 [IEEE](https://ieeexplore.ieee.org/author/37590237800)
