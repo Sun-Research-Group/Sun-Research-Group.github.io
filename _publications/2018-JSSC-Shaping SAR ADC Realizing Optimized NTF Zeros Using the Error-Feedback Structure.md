@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '利用误差反馈结构整形SAR ADC实现优化NTF零点'
 date: 2018-10-15
-venue: 'Journal 1'
+venue: 'JSSC'
 paperurl: 'https://ieeexplore.ieee.org/document/8492338'
-citation: 'S. Li, B. Qiao, M. Gandara, D. Z. Pan and N. Sun, "A 13-ENOB Second-Order Noise-Shaping SAR ADC Realizing Optimized NTF Zeros Using the Error-Feedback Structure," in IEEE Journal of Solid-State Circuits, vol. 53, no. 12, pp. 3484-3496, Dec. 2018, doi: 10.1109/JSSC.2018.2871081.'
+citation: 'S. Li, B. Qiao, M. Gandara, D. Z. Pan and N. Sun, "A 13-ENOB Second-Order Noise-Shaping SAR ADC Realizing Optimized NTF Zeros Using the Error-Feedback Structure,"'
 ---
 
 

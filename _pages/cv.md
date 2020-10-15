@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "团队成员"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,52 +8,32 @@ redirect_from:
 ---
 
 {% include base_path %}
+======
+小蓝
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<img src='/images/小蓝.jpg'>
+右一
+1. 芯片设计和设计自动化相关方向的博士学位
+2.热爱科研工作，对芯片设计有浓厚的科研兴趣
+3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
+4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
+5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+小紫色
+<img src='/images/小蓝.jpg'>
+左一
+1. 芯片设计和设计自动化相关方向的博士学位
+2.热爱科研工作，对芯片设计有浓厚的科研兴趣
+3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
+4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
+5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
 
-Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+小绿
+1. 芯片设计和设计自动化相关方向的博士学位
+2.热爱科研工作，对芯片设计有浓厚的科研兴趣
+3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
+4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
+5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
