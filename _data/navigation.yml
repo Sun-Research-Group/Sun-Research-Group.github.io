@@ -3,17 +3,20 @@ main:
   - title: "学术成果"
     url: /publications/
 
-  - title: "学术交流"
-    url: /talks/    
+  - title: "团队成员"
+    url: /cv/
+
+  # - title: "学术交流"
+  #   url: /talks/    
 
   - title: "教学"
     url: /teaching/    
     
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
   - title: "招聘与招生"
     url: /year-archive/
-    
-  - title: "团队成员"
-    url: /cv/
-    
-  - title: "其他"
+        
+  - title: "Guide"
     url: /markdown/
