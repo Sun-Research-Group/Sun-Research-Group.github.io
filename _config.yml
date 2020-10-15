@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "创芯实验室"
+title                    : "清华大学创芯实验室"
 title_separator          : "-"
 name                     : &name "清华大学创芯实验室"
 description              : &description "简介"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "孙楠"
   avatar           : "NanSun-235x278.jpg"
-  bio              : "孙楠，清华大学长聘教授，2006年本科毕业于清华大学，2010博士毕业于哈佛大学。"
+  bio              : "清华大学长聘教授，2006年本科毕业于清华大学，2010博士毕业于哈佛大学。"
   location         : "中国，北京，海淀区"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
