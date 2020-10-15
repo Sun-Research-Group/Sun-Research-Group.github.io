@@ -11,7 +11,7 @@ redirect_from:
 
 小蓝
 ======
-<img src='/images/小蓝.jpg'>
+<img src='/images/小蓝.jpg' style="zoom:67%;">
 
 右一
 1. 芯片设计和设计自动化相关方向的博士学位
@@ -31,11 +31,11 @@ redirect_from:
 3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
 4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
 5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
-<img src='/images/小紫.jpg'>
+<img src='/images/小紫.jpg' style="zoom:67%;">
 
 小红
 ======
-<img src='/images/小红.jpg'>
+<img src='/images/小红.jpg' style="zoom:67%;">
 
 1. 芯片设计和设计自动化相关方向的博士学位
 2.热爱科研工作，对芯片设计有浓厚的科研兴趣
